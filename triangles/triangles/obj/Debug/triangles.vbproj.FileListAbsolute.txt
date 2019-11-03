@@ -1,0 +1,9 @@
+i:\documents\visual studio 2013\Projects\triangles\triangles\bin\Debug\triangles.exe.config
+I:\Documents\Visual Studio 2013\Projects\triangles\triangles\obj\Debug\triangles.xml
+I:\Documents\Visual Studio 2013\Projects\triangles\triangles\bin\Debug\triangles.exe
+I:\Documents\Visual Studio 2013\Projects\triangles\triangles\bin\Debug\triangles.pdb
+I:\Documents\Visual Studio 2013\Projects\triangles\triangles\bin\Debug\triangles.xml
+I:\Documents\Visual Studio 2013\Projects\triangles\triangles\obj\Debug\triangles.Resources.resources
+I:\Documents\Visual Studio 2013\Projects\triangles\triangles\obj\Debug\triangles.vbproj.GenerateResource.Cache
+I:\Documents\Visual Studio 2013\Projects\triangles\triangles\obj\Debug\triangles.exe
+I:\Documents\Visual Studio 2013\Projects\triangles\triangles\obj\Debug\triangles.pdb
